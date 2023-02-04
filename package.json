@@ -1,0 +1,26 @@
+{
+  "name": "new-dark",
+  "displayName": "NewDarkTheme",
+  "description": "Based On OneDarkPro And JetBrains New Dark",
+  "publisher": "FeliksLv",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FeliksLv01/NewDarkTheme"
+  },
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "NewDarkTheme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/NewDarkTheme-color-theme.json"
+      }
+    ]
+  }
+}
