@@ -12,6 +12,11 @@
   "engines": {
     "vscode": "^1.74.0"
   },
+  "icon": "icon.png",
+  "keywords": [
+    "new dark",
+    "newdark"
+  ],
   "categories": [
     "Themes"
   ],
