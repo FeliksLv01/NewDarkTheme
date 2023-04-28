@@ -1,5 +1,5 @@
 # Change Log
 
-## 0.0.3 2023.02.05
+## 0.0.4 2023.04.29
 
-- update StatusBar And TitleBar foreground
+- update sideBar background color

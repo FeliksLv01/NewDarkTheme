@@ -92,7 +92,7 @@
     "scrollbarSlider.hoverBackground": "#5a637580",
     "settings.focusedRowBackground": "#232429",
     "settings.headerForeground": "#fff",
-    "sideBar.background": "#1e1f22",
+    "sideBar.background": "#1a1b1c",
     "sideBar.foreground": "#CECDCE",
     "sideBar.border": "#232429",
     "sideBarSectionHeader.background": "#1e1f22",
@@ -1528,7 +1528,11 @@
     },
     {
       "name": "String interpolation",
-      "scope": ["punctuation.definition.template-expression.begin", "punctuation.definition.template-expression.end", "punctuation.section.embedded"],
+      "scope": [
+        "punctuation.definition.template-expression.begin",
+        "punctuation.definition.template-expression.end",
+        "punctuation.section.embedded"
+      ],
       "settings": {
         "foreground": "#d881de"
       }
@@ -1871,7 +1875,11 @@
     },
     {
       "name": "C++/C#",
-      "scope": ["entity.name.label.cs", "entity.name.scope-resolution.function.call", "entity.name.scope-resolution.function.definition"],
+      "scope": [
+        "entity.name.label.cs",
+        "entity.name.scope-resolution.function.call",
+        "entity.name.scope-resolution.function.definition"
+      ],
       "settings": {
         "foreground": "#e5c07b"
       }
